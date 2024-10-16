@@ -1,0 +1,12 @@
+*{
+  font-family: "Afacad Flux", sans-serif;
+}
+#searchicon{
+  font-size: x-large;
+  border: none;
+  margin-top: -13px;
+}
+#bg{
+  background-image: url('https://lh3.googleusercontent.com/d/10M1u6nC3_1IpIb8DPP39UL-IL7tzc6Ah=w590-c-rw-h1280');
+  background-position: center;
+}
